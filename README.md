@@ -1,12 +1,6 @@
 <div align="center">
 
-# HARRINSON MAHECHA
-
-### API Implementation Analyst at Visa
-
-**Payments & FinTech | API Integration | Software Engineering**
-
-Bogotá, Colombia
+![Harrinson Mahecha — API Implementation Analyst at Visa](assets/profile-banner.svg)
 
 </div>
 
