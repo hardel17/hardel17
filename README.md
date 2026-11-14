@@ -1,6 +1,6 @@
 <div align="center">
 
-![Harrinson Mahecha — API Implementation Analyst at Visa](assets/profile-banner.svg)
+![Harrinson Mahecha — API Implementation Analyst](assets/profile-banner.svg)
 
 </div>
 
@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About me
 
-I am an API Implementation Analyst at Visa and a Software Engineering student, passionate about digital payments, API integrations, software development and process automation.
+I am an API Implementation Analyst and a Software Engineering student, passionate about digital payments, API integrations, software development and process automation.
 
 I enjoy transforming complex challenges into practical technology solutions while continuously expanding my technical knowledge.
 
